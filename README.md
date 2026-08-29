@@ -5,6 +5,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/alhasan-alhmondi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:a.a@nulxlinux.com"><img src="https://img.shields.io/badge/Email-a.a%40nulxlinux.com-11161d?style=for-the-badge&logoColor=3cf3ff" alt="Email a.a@nulxlinux.com" /></a>
 <a href="https://github.com/Alhasan100?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-11161d?style=for-the-badge&logo=github&logoColor=3cf3ff" alt="Repositories" /></a>
 
 </div>
@@ -69,8 +70,7 @@ My work lives around **Linux, networks, defensive tooling, infrastructure automa
 ## Signal
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alhasan100&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3cf3ff&text_color=c9d1d9&icon_color=b345ff&rank_icon=github" alt="Alhasan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhasan100&layout=compact&hide_border=true&bg_color=0d1117&title_color=3cf3ff&text_color=c9d1d9&langs_count=6" alt="Alhasan's top languages" />
+  <img src="./assets/signal.svg" width="100%" alt="Animated Nulx project signal for Linux, networks, security and automation" />
 </div>
 
 ---
@@ -78,5 +78,5 @@ My work lives around **Linux, networks, defensive tooling, infrastructure automa
 <div align="center">
 <sub><code>ALHASAN100 // BUILD · VERIFY · HARDEN · REPEAT</code></sub>
 <br /><br />
-<a href="https://www.linkedin.com/in/alhasan-alhmondi">Let's connect on LinkedIn →</a>
+<a href="mailto:a.a@nulxlinux.com">a.a@nulxlinux.com</a> · <a href="https://www.linkedin.com/in/alhasan-alhmondi">LinkedIn →</a>
 </div>
