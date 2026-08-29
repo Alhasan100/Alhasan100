@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="170" align="center">
-  <img src="./assets/alhasan.jpg" width="145" alt="Alhasan Al-Hmondi" /><br />
+  <img src="./assets/alhasan.png" width="145" alt="Alhasan Al-Hmondi" /><br />
   <sub><b>Alhasan Al-Hmondi</b></sub>
 </td>
 <td>
