@@ -58,6 +58,13 @@ My work lives around **Linux, networks, defensive tooling, infrastructure automa
 
 </div>
 
+## Core competencies
+
+| Security & systems | Networking | Operations & mindset |
+| :--- | :--- | :--- |
+| Linux · Access Security · Virtualization | TCP/IP · Network Automation · Dynamic Routing · WAN · NAT · QoS · Access Connectivity | IT Support · Troubleshooting · Problem Solving · Fast Learner · Team-Oriented |
+
+<sub>Selected from my <a href=""https://www.linkedin.com/in/alhasan-alhmondi/details/skills/"">LinkedIn skills</a> and current CCNA-focused studies.</sub>
 ## Engineering principles
 
 ```text
