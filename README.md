@@ -10,7 +10,7 @@
 
 </div>
 
-## Identity
+## About me
 
 <table>
 <tr>
@@ -20,9 +20,9 @@
 </td>
 <td>
 
-I study **Digital Infrastructure & Cybersecurity** at the University of Borås. I like the layer where security stops being theory and becomes a system you can build, inspect, break safely, and improve.
+I'm studying an **engineering programme in Digital Infrastructure & Cybersecurity** at the **University of Borås**, and I have completed **CCNA**. I enjoy understanding how systems work, solving practical problems, and making infrastructure easier to secure and maintain.
 
-My work lives around **Linux, networks, defensive tooling, infrastructure automation, and disciplined troubleshooting**. I am currently building **Nulx Linux** — an independent Debian-based cybersecurity distribution — as private pre-alpha R&D.
+My projects focus on **Linux, networking, defensive security, and infrastructure automation**. I'm also developing **Nulx Linux**, an independent Debian-based distribution for cybersecurity learning, system administration, and everyday use. The beta candidate is in development, with no public ISO available yet.
 
 `Göteborg, Sweden` · Open to IT support, operations, network and junior cybersecurity opportunities.
 
@@ -34,14 +34,17 @@ My work lives around **Linux, networks, defensive tooling, infrastructure automa
 
 ## Selected systems
 
-| Project | Mission | Stack |
-| :--- | :--- | :--- |
-| [**dns_sink0**](https://github.com/Alhasan100/dns_sink0) | Lightweight, network-wide DNS sinkhole built for speed and clean deployment. | Python · Docker |
-| [**eventguard-ps**](https://github.com/Alhasan100/eventguard-ps) | Windows Security event triage with ATT&CK-aware findings and offline reports. | PowerShell · Windows |
-| [**netbaseline-py**](https://github.com/Alhasan100/netbaseline-py) | Host exposure baselining and drift detection for Windows environments. | Python · Networking |
-| [**serverSystem-Lab2-Del2**](https://github.com/Alhasan100/serverSystem-Lab2-Del2) | Proxmox lab with inventory reporting and desired-state automation. | Python · Ansible · Proxmox |
+These projects reflect how I approach security, automation, and day-to-day operations.
 
-## Operating range
+| Project | What I'm building | Main technologies |
+| :--- | :--- | :--- |
+| [**Nulx Linux**](https://github.com/Alhasan100/Nulx-Linux-Releases) | A Debian-based distribution. The public repository holds release information and beta testing guidance. | Debian · Linux |
+| [**dns_sink0**](https://github.com/Alhasan100/dns_sink0) | A lightweight DNS sinkhole for network-wide domain blocking. | Python · Docker |
+| [**eventguard-ps**](https://github.com/Alhasan100/eventguard-ps) | Windows Security event triage with ATT&CK-aware findings and offline reports. | PowerShell · Windows |
+| [**netbaseline-py**](https://github.com/Alhasan100/netbaseline-py) | Host exposure baselines and drift detection for Windows environments. | Python · Networking |
+| [**serverSystem-Lab2-Del2**](https://github.com/Alhasan100/serverSystem-Lab2-Del2) | A Proxmox lab with inventory reporting and desired-state automation. | Python · Ansible · Proxmox |
+
+## Tools & technologies
 
 <div align="center">
 
@@ -52,7 +55,7 @@ My work lives around **Linux, networks, defensive tooling, infrastructure automa
 <img src="https://img.shields.io/badge/Docker-11161d?style=flat-square&logo=docker&logoColor=3cf3ff" alt="Docker" />
 <img src="https://img.shields.io/badge/Ansible-11161d?style=flat-square&logo=ansible&logoColor=b345ff" alt="Ansible" />
 <img src="https://img.shields.io/badge/Proxmox-11161d?style=flat-square&logo=proxmox&logoColor=3cf3ff" alt="Proxmox" />
-<img src="https://img.shields.io/badge/TCP%2FIP-11161d?style=flat-square&logo=cisco&logoColor=3178ff" alt="TCP/IP" />
+<img src="https://img.shields.io/badge/CCNA-11161d?style=flat-square&logo=cisco&logoColor=3178ff" alt="CCNA completed" />
 <img src="https://img.shields.io/badge/Cybersecurity-11161d?style=flat-square&logo=hackthebox&logoColor=3cf3ff" alt="Cybersecurity" />
 <img src="https://img.shields.io/badge/Git-11161d?style=flat-square&logo=git&logoColor=b345ff" alt="Git" />
 
@@ -60,18 +63,24 @@ My work lives around **Linux, networks, defensive tooling, infrastructure automa
 
 ## Core competencies
 
-| Security & systems | Networking | Operations & mindset |
-| :--- | :--- | :--- |
-| Linux · Access Security · Virtualization | TCP/IP · Network Automation · Dynamic Routing · WAN · NAT · QoS · Access Connectivity | IT Support · Troubleshooting · Problem Solving · Fast Learner · Team-Oriented |
+| Area | Skills and practical focus |
+| :--- | :--- |
+| **Linux & systems** | Linux and Debian administration, access security, virtualization |
+| **Networking** | TCP/IP, dynamic routing, WAN, NAT, QoS, access connectivity |
+| **Scripting & automation** | Python, PowerShell, Ansible, network automation |
+| **Infrastructure** | Docker, Proxmox, inventory reporting, desired-state configuration |
+| **Defensive security** | Security event triage, host exposure baselines, drift detection |
+| **Operations** | IT support, troubleshooting, documentation, testing and recovery |
 
-<sub>Selected from my <a href="https://www.linkedin.com/in/alhasan-alhmondi/details/skills/">LinkedIn skills</a> and current CCNA-focused studies.</sub>
-## Engineering principles
+<sub>These areas reflect my project work, completed CCNA, and ongoing engineering studies. More on my <a href="https://www.linkedin.com/in/alhasan-alhmondi/details/skills/">LinkedIn skills</a>.</sub>
+
+## How I work
 
 ```text
-01  Understand the system before touching the fix.
-02  Automate the repeatable; document the dangerous.
-03  Test claims with evidence — especially in security.
-04  Build for recovery, observability and the person on call.
+01  Understand the system before making a change.
+02  Automate repeatable work and document decisions.
+03  Test security claims against evidence.
+04  Plan for recovery and the person maintaining the system.
 ```
 
 ## Signal
