@@ -20,7 +20,7 @@
 </td>
 <td>
 
-I'm studying an **engineering programme in Digital Infrastructure & Cybersecurity** at the **University of Borås**, and I have completed **CCNA**. I enjoy understanding how systems work, solving practical problems, and making infrastructure easier to secure and maintain.
+I'm an engineering student at the University of Borås, studying Digital Infrastructure & Cybersecurity. I enjoy solving practical problems and making systems easier to secure and maintain.
 
 My projects focus on **Linux, networking, defensive security, and infrastructure automation**. I'm also developing **Nulx Linux**, an independent Debian-based distribution for cybersecurity learning, system administration, and everyday use. The beta candidate is in development, with no public ISO available yet.
 
@@ -55,7 +55,7 @@ These projects reflect how I approach security, automation, and day-to-day opera
 <img src="https://img.shields.io/badge/Docker-11161d?style=flat-square&logo=docker&logoColor=3cf3ff" alt="Docker" />
 <img src="https://img.shields.io/badge/Ansible-11161d?style=flat-square&logo=ansible&logoColor=b345ff" alt="Ansible" />
 <img src="https://img.shields.io/badge/Proxmox-11161d?style=flat-square&logo=proxmox&logoColor=3cf3ff" alt="Proxmox" />
-<img src="https://img.shields.io/badge/CCNA-11161d?style=flat-square&logo=cisco&logoColor=3178ff" alt="CCNA completed" />
+<img src="https://img.shields.io/badge/CCNA-11161d?style=flat-square&logo=cisco&logoColor=3178ff" alt="CCNA" />
 <img src="https://img.shields.io/badge/Cybersecurity-11161d?style=flat-square&logo=hackthebox&logoColor=3cf3ff" alt="Cybersecurity" />
 <img src="https://img.shields.io/badge/Git-11161d?style=flat-square&logo=git&logoColor=b345ff" alt="Git" />
 
@@ -72,7 +72,7 @@ These projects reflect how I approach security, automation, and day-to-day opera
 | **Defensive security** | Security event triage, host exposure baselines, drift detection |
 | **Operations** | IT support, troubleshooting, documentation, testing and recovery |
 
-<sub>These areas reflect my project work, completed CCNA, and ongoing engineering studies. More on my <a href="https://www.linkedin.com/in/alhasan-alhmondi/details/skills/">LinkedIn skills</a>.</sub>
+<sub><a href="https://www.linkedin.com/in/alhasan-alhmondi/details/skills/">More on LinkedIn</a></sub>
 
 ## How I work
 
