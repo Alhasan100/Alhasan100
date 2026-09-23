@@ -22,7 +22,7 @@
 
 I'm an engineering student at the University of Borås, studying Digital Infrastructure & Cybersecurity. I enjoy solving practical problems and making systems easier to secure and maintain.
 
-My projects focus on **Linux, networking, defensive security, and infrastructure automation**. I'm also developing **Nulx Linux**, an independent Debian-based distribution for cybersecurity learning, system administration, and everyday use. The beta candidate is in development, with no public ISO available yet.
+My projects focus on **Linux, networking, defensive security, and infrastructure automation**. I'm also developing **Nulx Linux**, a Debian-based desktop for cybersecurity students and lab users with basic Linux knowledge. It brings organized tools and learning guidance into one environment for authorized practice. The public beta is still in development, with no approved ISO available yet.
 
 `Göteborg, Sweden` · Open to IT support, operations, network and junior cybersecurity opportunities.
 
@@ -38,7 +38,7 @@ These projects reflect how I approach security, automation, and day-to-day opera
 
 | Project | What I'm building | Main technologies |
 | :--- | :--- | :--- |
-| [**Nulx Linux**](https://github.com/Alhasan100/Nulx-Linux-Releases) | A Debian-based distribution. The public repository holds release information and beta testing guidance. | Debian · Linux |
+| [**Nulx Linux**](https://github.com/Alhasan100/Nulx-Linux-Releases) | A cybersecurity learning and lab desktop. Follow verified progress and beta preparation in the public repository. | Debian · KDE Plasma · Python |
 | [**dns_sink0**](https://github.com/Alhasan100/dns_sink0) | A lightweight DNS sinkhole for network-wide domain blocking. | Python · Docker |
 | [**eventguard-ps**](https://github.com/Alhasan100/eventguard-ps) | Windows Security event triage with ATT&CK-aware findings and offline reports. | PowerShell · Windows |
 | [**netbaseline-py**](https://github.com/Alhasan100/netbaseline-py) | Host exposure baselines and drift detection for Windows environments. | Python · Networking |
