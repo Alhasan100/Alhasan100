@@ -44,7 +44,7 @@ These projects reflect how I approach security, automation, and day-to-day opera
 | [**netbaseline-py**](https://github.com/Alhasan100/netbaseline-py) | Host exposure baselines and drift detection for Windows environments. | Python · Networking |
 | [**serverSystem-Lab2-Del2**](https://github.com/Alhasan100/serverSystem-Lab2-Del2) | A Proxmox lab with inventory reporting and desired-state automation. | Python · Ansible · Proxmox |
 
-**Latest Nulx milestone:** all 64 catalog tools are installed and startup-tested on the development system. I'm now working through licensing, final-image testing and release preparation. [Progress and remaining work →](https://nulxlinux.com/updates/#all-64-tools-installed)
+**Nulx progress:** all 64 catalog tools are installed in development. Recent app upgrades retained existing data, and local AI command checks passed. The first public beta still needs final installation and release testing. [Progress and remaining work →](https://nulxlinux.com/updates/#learning-and-app-updates)
 
 ## Tools & technologies
 
